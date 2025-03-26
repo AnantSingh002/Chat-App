@@ -16,6 +16,7 @@ A simple and interactive chat application built with **HTML, CSS, and JavaScript
 - **CSS**: For styling and responsiveness.
 - **JavaScript**: For interactivity and dynamic updates.
 
+## Hosted Link - https://anantsingh002.github.io/Chat-App/
 ## Installation & Setup
 
 1. Clone this repository:
